@@ -8,12 +8,12 @@
 ![JavaScript][javascript-shield]
 ![jQuery][jquery-shield]
 
-<p align="center">:warning: Project available to access at: :bangbang: https://nitaicharan.github.io/Udemy-B4FSW5P2/ :bangbang:</p>
+<p align="center">:bangbang: Project available to access at: https://nitaicharan.github.io/Udemy-B4FSW5P2 :bangbang:</p>
 
 <!--[![](Udemy-B4FSW5P2.png)](https://nitaicharan.github.io/Udemy-B4FSW5P2/)-->
 <a href="https://nitaicharan.github.io/Udemy-B4FSW5P2">
   <p align="center">
-    <img src="PREVIEW.png">
+    <img src="PREVIEW.gif">
   </p>
 </a>
 
